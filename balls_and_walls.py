@@ -70,6 +70,7 @@ def main():
             balls.remove(ball)
 
     def display_num_balls(num_balls):
+        """Display number of ball on the Surface"""
         text = FONT.render(f"Number of Balls: {num_balls}", True, Color(0, 0, 0))
         WINDOW.blit(text, (5, 10))
 
@@ -90,9 +91,7 @@ def main():
 
         clear_junks()
         display_num_balls(len(balls))
-
         pygame.display.flip()
-        # print(len(balls))
 
     pygame.quit()
 
