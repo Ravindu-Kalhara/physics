@@ -1,7 +1,7 @@
 # bouncing ball with pymunk and pygame
 
 #  ____  _  __
-# |  _ \| |/ /  Modified by Ravindu Kalhara
+# |  _ \| |/ /  Created by Ravindu Kalhara
 # | |_) | ' /   Github - https://github.com/Ravindu-Kalhara
 # |  _ <| . \
 # |_| \_\_|\_\
